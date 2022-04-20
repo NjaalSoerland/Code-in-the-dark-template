@@ -1,2 +1,5 @@
-# Code-in-the-dark-template
-The template to use for the code in the dark challenge
+# Code in the dark
+
+Få sonic til å springe fort
+
+Lykke til
